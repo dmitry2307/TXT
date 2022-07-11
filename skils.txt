@@ -1,0 +1,7 @@
+Postman
+API
+JIRA
+Confluence
+Xcode
+Terminal linux
+GIT
